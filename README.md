@@ -9,7 +9,7 @@ Using the https://symfony.com/doc/6.4/security/expressions.html feature with the
 leads to an exception 
 > The function &quot;args&quot; does not exist around position 1 for expression `args(&quot;id&quot;)`
 
-rerproducable via tests
+rerproducable via tests `bin/phpunit`
 [FooControllerTest.php](tests/Application/FooControllerTest.php)
 
 ```
