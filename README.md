@@ -1,3 +1,5 @@
+> :warning: **No bug here, just used the args feature with () instead of []**
+
 Using the https://symfony.com/doc/6.4/security/expressions.html feature with the `args` feature
 ```
   #[IsGranted(
