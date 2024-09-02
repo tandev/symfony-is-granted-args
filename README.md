@@ -1,5 +1,9 @@
 > :warning: **No bug here, just used the args feature with () instead of []**
 
+# Repo archived. typo, not bug
+
+
+
 Using the https://symfony.com/doc/6.4/security/expressions.html feature with the `args` feature
 ```
   #[IsGranted(
